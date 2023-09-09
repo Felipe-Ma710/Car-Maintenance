@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2023-07-10",
+        "oil_quantity": 4.5,
+        "oil_type": "5w-30",
+        "additional_notes": "low oil level"
+    },
+    {
+        "date": "2023-09-07",
+        "oil_quantity": 4.5,
+        "oil_type": "5w-30",
+        "additional_notes": "Burning a lot of oil, oil was dangerously low"
+    },
+    {
+        "date": "2023-09-07",
+        "oil_quantity": 4.5,
+        "oil_type": "5w-30",
+        "additional_notes": "Burning oil, very low oil level"
+    },
+    {
+        "date": "2023-09-08",
+        "oil_quantity": 4.5,
+        "oil_type": "5w-30",
+        "additional_notes": "burning oil, very low oil level"
+    }
+]
