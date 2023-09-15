@@ -1,0 +1,25 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2009",
+        "owner": "Fil",
+        "oil_changes": [
+            {
+                "date": "2023-09-11",
+                "oil_type": "5w-20",
+                "oil_quantity": "4.5 wt",
+                "oil_miles": "1000000",
+                "additional_notes": "low oil"
+            },
+            {
+                "date": "1",
+                "oil_type": "1",
+                "oil_quantity": "1",
+                "oil_miles": "1",
+                "additional_notes": "1"
+            }
+        ],
+        "fuel_ups": []
+    }
+]
